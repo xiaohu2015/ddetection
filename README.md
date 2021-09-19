@@ -16,7 +16,7 @@ object detection models on top of Detectron2.
 <th valign="bottom">download</th>
 <!-- TABLE BODY -->
 <!-- ROW: retinanet_R_50_FPN_1x -->
- <tr><td align="left"><a href="configs/COCO-Detection/FCOS_R_50_FPN_1x.yaml">R50</a></td>
+ <tr><td align="left"><a href="configs/COCO-Detection/fcos_R_50_FPN_1x.yaml">R50</a></td>
 <td align="center">1x</td>
 <td align="center"></td>
 <td align="center"></td>
@@ -25,6 +25,7 @@ object detection models on top of Detectron2.
 <td align="center"></td>
 <td align="center"><a href="">model</a>&nbsp;|&nbsp;<a href="">metrics</a></td>
 </tr>
+</tbody></table>
 
 
 ## References
