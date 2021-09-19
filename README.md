@@ -23,7 +23,7 @@ object detection models on top of Detectron2.
 <td align="center"></td>
 <td align="center">40.2</td>
 <td align="center"></td>
-<td align="center"><a href="">model</a>&nbsp;|&nbsp;<a href="">metrics</a></td>
+<td align="center"><a href="https://github.com/xiaohu2015/ddetection/releases/download/v1.0/fcos_r50_1x_coco.pth">model</a>&nbsp;|&nbsp;<a href="">metrics</a></td>
 </tr>
 </tbody></table>
 
