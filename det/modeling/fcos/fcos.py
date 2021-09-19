@@ -1,10 +1,5 @@
 # -*- coding: UTF-8 -*-
 # **********************************************************
-# * Copyright (c) 2021 Tencent
-# * Author        : huye
-# * Create time   : 2021-07-27 16:30
-# * Last modified : 2021-07-27 16:30
-# **********************************************************
 
 import logging
 import math
@@ -27,7 +22,7 @@ from detectron2.modeling.box_regression import Box2BoxTransformLinear
 from detectron2.modeling.backbone.fpn import FPN, build_resnet_backbone, LastLevelP6P7
 from detectron2.config import CfgNode as CN
 
-from . import comm
+from det.utils import comm
 
 logger = logging.getLogger(__name__)
 
